@@ -47,5 +47,5 @@ async def RandoMCF(ctx):
 async def on_ready():
     print("Tamos")
 
-bot.run("NzQ1ODMzNTIwNjMwNTk1NjE0.Xz3hmA.9ruB6_KFepoWlwgxzCKrlsR4_5E")
+bot.run("") #se debe introducir el token
 
