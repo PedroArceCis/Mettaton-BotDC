@@ -1,0 +1,19 @@
+1. crea la app en heroku
+
+2. cmd en la direccion de la carpeta 
+
+3. dentro de la terminal: heroku login
+
+4. echo>Procfile
+
+5. sobreescribir en Procfile: "worker: python index.py"
+
+6. git init
+
+7. heroku git:remote -a name_de_la_app
+
+8. git add .
+
+9. git commit -am ""
+
+10. git push heroku master
